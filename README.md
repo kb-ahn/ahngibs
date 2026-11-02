@@ -91,4 +91,4 @@ Google Analytics 데이터를 API로 조회하는 예제 프로젝트
 
 ## 📫 GitHub
 
-https://github.com/kibean
+https://github.com/ahngibs
